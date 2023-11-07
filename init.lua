@@ -51,6 +51,8 @@ require('lazy').setup({
     },
   },
 
+  'fatih/vim-go',
+
   {
     -- Autocompletion
     'hrsh7th/nvim-cmp',
